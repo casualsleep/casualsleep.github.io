@@ -1,0 +1,223 @@
+
+Design Challenge: Setting Goals for Your Site
+
+Your work in this Design Challenge will help guide your project for this unit.
+Step 1
+
+Find two websites whose layouts and designs you admire, that share similar goals to the business website you began building in Unit 1. Pay particular attention to the homepage. Present the following to your mentor:
+
+    Describe how each website exhibits effective use of space, size or balance.
+    Describe ways each website can benefit from a reexamination of space, size or balance.
+
+1. pitchfork [pitchfork's focal point is the top album reviews], the effectiveness of the space is that it allows the viewer to drfit over to the headlines, and then further into the articles. it is purposely disassociative, because it wants the viewer to take in as much of the site as possible. the spaceis aesthetically pleasing, yet informative. in some ways, the disassociative format is both good and bad. it can also detract from people wanting to navigate the site more in depth.]
+2. editions mego [the focal point of editions mego is the new releases. the website has a quasi-blog format, which allows the viewer to do further research. because the record label specializes in viewers who do musical research, it has a certain amount of vagueness. but the format also allows the web adminstrator to update the website easily. which is very useful. the website could probably benefit from a more informative index page.]
+
+Step 2
+
+Compare the two layouts. What makes them different? What are the similarities in both that appeal to you?
+
+[the differences between the two is that editions mego is more of a blog style, and less informative, whereas pitchfork is more in depth, but distracting]
+Step 3
+
+Search Google and Google Image Search for “thumbnail layout sketches” and compare and contrast various solutions.
+
+Take note of thumbnail sketch techniques that you think are effective.
+Step 4
+
+Now that you've analyzed the layouts of two sites and seen examples of thumbnail sketches, try hand drawing thumbnails for the business page you began creating in Unit 1.
+
+Draw 2 different versions of what you think would make an effective homepage for your site. [do this at home]
+
+Note how each of the thumbnail sketches demonstrate focal point, hierarchy, and flow across different grid-based layouts.
+Advanced Study
+
+Using Google Chrome's Inspect Element feature, explore the HTML and CSS of one of your selected pages.
+
+It's okay if you don't understand all of the code you're seeing. There's going to be some elements we haven't discussed yet.
+
+Copy or screenshot the code of an element that intriguing to you, and send it to your mentor to discuss in your next 1:1. [do this friday]
+
+If you're unfamiliar with Google Chrome's Inspect Element feature, check out our videos "Chrome, Gmail, and Google Drive" and "Thinking Like a Developer" from our Plugging into Circuits pre-work section.
+
+
+Review Guide: How Design Works
+
+Let’s review some of the key ideas introduced in this unit. You can also download all this content for future reference by clicking on the attached file.
+Key Definitions
+
+    Call To Action: The element on a page prompting the primary desired user action.
+    Pixel: The smallest “picture element” of screen based images. Often represented relative to size, i.e. ppi, or pixels per inch.
+    Below The Fold: The part of a website that can’t be seen without scrolling down. Note: Not all folds are created equal! The size of this area will vary greatly depending on the user's device.
+    Index Page: Also called the home page, this is the main page on a website.
+    Prototyping: A part of the design process, usually for the purposes of testing and iterating, in either a digital or analog space.
+    Iteration: Typical "design-speak" for the process of creation and destruction whereby new solutions are found while others are abandoned.
+    Mockup: The presentation of the basic visual layout of a website. Designers use mockups in order to quickly present ideas and concepts for testing, allowing them to make rapid changes to the design based on feedback.
+    Comps: Short for "composites," are proposed design directions. These may take a number of forms, including sketches, wireframes, and thumbnails.
+    Thumbnail Sketch: In terms of web design comps, thumbnail sketches are most commonly used to refer to basic shapes and drawings that represent page elements.
+    Target Audience: The viewers you anticipate gaining the maximum value from the site.
+    Responsive Design: The construction of web sites to render in the optimal setting based on the size of the user's browser & device.
+
+Visual Design Elements
+
+Use the following elements as guides for articulating and defending your choices when creating the design for you website.
+
+    Visual Balance: The distribution of an object’s “visual weight” (often used in relation to positive and negative space on a site). Visual balance can also refer to the overall arrangement of the objects on a web page.
+    Scale: Refers to the size of an object on a page, and in turn, its visual relationship to the size of other page elements. Sizing objects on a page is a common method of attracting visual attention or organizing elements based on relative importance.
+    Space: Positive space, or the content of the page, is framed by the negative space (often called "white space", even if the color isn't white).
+    Focal Point: The primary point of visual emphasis, or in other words, the element on the site that the users should focus on. Examples of this include logos, headlines, and large images (often called "hero images").
+    Hierarchy: In web design, hierarchy may refer to the organization of elements on a page, or more broadly as the organization of different pages on a site.
+    Flow: The movement of the user’s eye through the site content, initiated by a focal point and influenced by hierarchy.
+
+Design Process
+
+1. Understand The Problem
+Key idea: Each website has a goal, or a problem its attempting to solve. For example, a portfolio site is solving the problem of a designer's work not being visible online; or a healthcare site is solving the problem of a lack of information for patients. If you clearly understand the problem, it will be easier to communicate your idea (solution) to the end user.
+
+2. Brainstorm
+Key idea: When you become comfortable with the practice of brainstorming and not feeling as if only “good” ideas are worth further consideration, you will shed the anxiety that often occurs when faced with a blank page.
+
+3. Create a Sitemap
+Key idea: By building the site’s structure as well as the overall goals for the viewer ahead of time, this will prevent unnecessary and time-consuming site restructuring later.
+
+4. Thumbnail Sketching
+Key idea: Rapid generation of clear ideas is the purpose of thumbnail sketching. Relationships of size, space, and balance should be evident at this stage.
+
+5. Iterate
+Key idea: Don’t be afraid to “kill your darlings,” or rather, don’t be afraid to abandon an unsuccessful design even if it holds special personal significance.
+
+6. Deploy
+Key idea: Remember, the design process is iterative in nature. Once your page is live on the web, continue acquiring user feedback to inform future changes on the site.
+The Visual Design Toolset
+
+Although we've decided to use Inkscape — a free, open-source alternative to Adobe Illustrator — as our primary design tool in this course, there are a number of other design tools available, ranging in both price and complexity.
+
+1. Apple Keynote
+Useful for laying out rough comps or more detailed drafts as well as adding basic interactivity at the between individual elements and/or pages.
+http://www.apple.com/mac/keynote/
+
+2. Balsamiq
+Designed for rapid development of wireframes—supported by a strong user community, and relatively inexpensive.
+http://balsamiq.com/
+
+3. Sketch
+Designed to rapidly concept nearly any type of digital execution—allows for the rapid updating of reusable elements such as buttons and other interface styles.
+http://bohemiancoding.com/sketch/
+
+4. OmniGraffle
+Useful for diagramming website structure, refining webpage sketches, adding annotations.
+http://www.omnigroup.com/omniGraffle
+
+5. Google Draw
+An excellent, free prototyping tool with an easy user experience.
+https://support.google.com/docs/answer/177123?hl=en
+
+6. Abobe Creative Cloud
+The most common software found across design disciplines. Adobe CC mobile and desktop solutions are utilized at all steps of design, development, and deployment.
+http://www.adobe.com/creativecloud.html
+
+7. Adobe Color CC
+A free color palette design and discovery resource from Adobe.
+https://color.adobe.com/create/color-wheel/
+
+8. Mac OS Digital Color Meter
+A utility included with the Mac OS useful for sampling and saving RGB colors. It can be found in the Utilities folder within Application on Mac OS X.
+Questions to Review With Your Mentor
+
+    What are some examples of “good” web design and “bad” design?
+
+    Can you show me an example of a website that’s effective in guiding the user’s eye through the page?
+
+    What software, hardware, and other tools do you use to design websites? When comparing tools, what features and functionality should I look for in web design hardware/software?
+
+    What are the most common industry tools for designing web pages?
+
+    Where do you find web design inspiration?
+
+Further Reading
+
+Looking for more help with the design basics? Here are a few places you can check out:
+
+American Institute of Graphic Arts, the oldest and largest professional membership organization for design:
+http://www.aiga.org
+
+An interesting read on how good design promotes understanding:
+https://www.vitsoe.com/rw/about/good-design
+
+William Lidwell’s Universal Principles of Design is a wide-ranging survey of the root components shared across disciplines:
+http://www.amazon.com/Universal-Principles-Design-William-Lidwell/dp/1592530079
+
+Design agencies worth following: R/GA, Razorfish, AKQA, Huge, Blue State Digital, and Possible:
+
+    http://www.rga.com
+    http://www.razorfish.com
+    http://www.akqa.com
+    http://www.hugeinc.com
+    http://www.bluestatedigital.com
+    http://www.possible.com
+
+SmashingMagazine.com, a content provider specific to web designers and developers, frequently posts “how-to” articles in addition to articles covering code and design techniques, inspirational sites, and the business of web development:
+http://www.smashingmagazine.com
+
+Communication Arts is standard reading for professionals working in various design disciplines:
+http://www.commarts.com
+
+A good site to examine flexibility and continuity. Although the number of columns defining the site’s grid appears to change between pages, what the viewer is experiencing is the merging of smaller column units into larger fields, a design common to print media:
+http://www.ffmark.com/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+THIS IS THE ACTUAL HOMEWORK:
+
+
+
+From Drawing to Digital: Creating Design Mockups for Your Homepage
+
+Earlier in this unit, you researched websites and created some simple thumbnail drawings. We hope those steps helped you gain a clearer vision of the website you’re planning to develop.
+
+In this project, you’ll take your design one step further by turning your thumbnail drawings into digital mockups. You’ll also learn how to host images online using your Github account.
+Step 1: Reflection
+
+Look back at your work for the design challenge. Think about a more concrete visualization of your thumbnail drawings.
+Step 2: Creating Your Mockups
+
+Using Inkscape (or the design program of your choice), create two mockups based on your design challenge thumbnails. Keep in mind focal point, hierarchy, and flow. When you’re done creating your mockups, save them as either a .png or a .jpg.
+
+For inspiration, take a look at the digital mockup of the Yahoo! homepage below. Take notice of how every element and piece of the final page content is represented here. Your designs for this project don't need to be nearly as complicated or granular, but they should follow this general pattern of using basic shapes to indicate how content will be arranged on your site.
+
+image
+Step 3: Uploading Your Mockups on Github
+
+Attached to this page is a downloadable guide with four simple steps that walk through how to host your newly-minted design mockups on Github. Check it out. By the time you’re done, you’ll be a Github guru, and one big step further as a web designer!
+
+If you get stuck anywhere, reach out to your mentor and let us know how you got tangled.
+
+
