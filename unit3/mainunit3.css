@@ -1,16 +1,16 @@
+* { margin:0; padding:0; box-sizing:border-box; }
 body {
 	background-color: #BEDE66;
 	font-family: Helvetica, sans-serif;
 	font-weight: normal;
 	color: #BA7A30;
-
+	font-size:16px;
 }
-
 h1 {
 	color: #4330BA;
 	text-align: justify;
+	font-size:2em;
 }
-
 #slogan {
 	font-style: italic;
 	text-align: justify;
