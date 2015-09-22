@@ -1,0 +1,36 @@
+
+
+body {
+	background-image: url("http://i.imgur.com/B8SmIfz.jpg");
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	background-size: cover;
+	font-weight: normal;
+	color: #FF0066;
+	font-family: 'Roboto', sans-serif;
+
+}
+
+#title {
+	color: #66FF33;
+	text-align: justify;
+	font-size: 38px;
+}
+
+h2 {
+	font-size: 10px;
+	text-align: bottom;
+}
+
+#slogan {
+	font-style: italic;
+	text-align: justify;
+}
+
+div {
+	text-align:justify;
+    height: auto;
+    display: inline-block;
+    margin: 0 10px;
+}
+
