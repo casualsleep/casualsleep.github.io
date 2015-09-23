@@ -1,36 +1,42 @@
-
-
+* { margin:0; padding:0; box-sizing:border-box; }
 body {
-	background-image: url("http://i.imgur.com/B8SmIfz.jpg");
-	-webkit-background-size: cover;
-	-moz-background-size: cover;
-	background-size: cover;
 	font-weight: normal;
 	color: #FF0066;
 	font-family: 'Roboto', sans-serif;
-
+	font-size:16px;
 }
-
+header {
+	background-image: url("http://i.imgur.com/B8SmIfz.jpg");
+	background-size: cover;
+	background-repeat:no-repeat;
+}
+nav {
+	float:left;
+	width:20%;
+}
+nav a {
+	display:block;
+	margin:1em;
+	text-align:center;
+}
+section {
+	float:left;
+	width:80%;
+}
+figure {
+	float:left;
+	padding:.5em;
+	width:20%;
+}
+figure img {
+	width:100%;
+}
+#slogan {
+	font-style: italic;
+	text-align: justify;
+}
 #title {
 	color: #66FF33;
 	text-align: justify;
 	font-size: 38px;
 }
-
-h2 {
-	font-size: 10px;
-	text-align: bottom;
-}
-
-#slogan {
-	font-style: italic;
-	text-align: justify;
-}
-
-div {
-	text-align:justify;
-    height: auto;
-    display: inline-block;
-    margin: 0 10px;
-}
-
