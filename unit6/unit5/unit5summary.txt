@@ -1,0 +1,82 @@
+
+Review Guide: Basic Webpage Layout
+
+Let’s review some of the key ideas introduced in this unit. You can also download all this content by clicking on the attached file for future reference.
+Key Definitions
+
+Span: a generic wrapper for any inline content. Spans are generally used to group small sections of content for styling purposes.
+
+Div: a generic wrapper for any block content. Divs are used to group other elements together or to provide style to a specific area.
+
+Box Model: Every html element on the page is a box, and the box model dictates what the element will look like. The model consists of the content, padding, border, and margin.
+
+Content: The text and images that are included within any element's opening and closing tags.
+
+Padding: The area outside of the content, but within the border. For example, padding will extend the background-color and contribute to the overall width of the object.
+
+Border: A line of variable thickness, color, and style that goes around the padding and content.
+
+Margin: The area outside of the border that separates the object from other objects around it. Margin has a transparent background-color.
+
+image
+Inline vs. Block
+
+What are Inline Elements?
+One of two categories of HTML elements, they take up the width of their contents and do not begin with new line. They cannot have height or width assigned.
+
+What are Block Elements?
+One of two categories of HTML elements, they break to a new line before and after the element and they take up the width of their containers by default (this is often the browser window itself). They can have padding, margin, height, and width assigned.
+Span and Div Tags
+
+To understand the difference between Span and Div, we need to think back to the last lesson on inline and block elements.
+
+Span is inline and is used to apply CSS to inline HTML, while Div is a block element and is used to apply CSS to—you guessed it—blocks of HTML. Divs typically wrap big sections of content on a page.
+Box Model
+
+Through the use of the CSS properties height, width, padding, margin, and border, you can construct what’s called the Box Model. This is essentially a box that wraps around the above HTML elements.
+Header, Nav, Footer
+
+The above elements are known as "semantic elements" and function in a fashion similar to div elements. Semantic elements can be used to contain sections of HTML code as well as apply meaning.
+
+header : A block element that, like a div, has no inherent layout, but is used to include introductory information for a page or section.
+
+nav : A block element that, like a div, has no inherent layout, but is used to group navigational links together.
+
+footer : A block element that, like a div, has no inherent layout, but is used to include concluding information for a page or section.
+Questions to Ask Your Mentor
+
+Can you show me some great examples of well-styled inline and block elements? How should I be using these in my pages?
+
+What are some good examples of the box model in action?
+
+How should I be thinking about prioritizing content based on its placement on the page?
+
+When would it be appropriate to create a page based on a single-column layout? When will we learn about multi-column layouts?
+Further Reading
+
+Border
+http://www.w3schools.com/css/cssborder.asp
+
+Shorthand Properties
+https://developer.mozilla.org/en-US/docs/web/CSS/shorthandproperties
+http://www.dustindiaz.com/css-shorthand/
+http://www.456bereastreet.com/archive/200502/efficient_css_with_shorthand_properties/
+
+Block and Inline
+http://webdesignfromscratch.com/html-css/css-block-and-inline/
+
+Span and Div
+http://www.htmldog.com/guides/html/intermediate/spandiv/
+http://www.w3schools.com/html/htmlblocks.asp
+
+Box Model
+http://www.htmldog.com/guides/css/beginner/margins/
+http://www.htmldog.com/guides/css/beginner/borders/
+http://css-tricks.com/the-css-box-model/
+
+Header, Footer, Nav
+http://html5doctor.com/the-header-element/
+http://www.html-5-tutorial.com/footer-element.htm
+http://html5doctor.com/the-footer-element-update/
+http://html5doctor.com/nav-element/
+http://www.html-5-tutorial.com/nav-element.htm

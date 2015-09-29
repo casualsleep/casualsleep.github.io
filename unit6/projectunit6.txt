@@ -1,0 +1,103 @@
+
+Client and Designer Part 2: Development
+
+In the unit 5 and 6 projects, your objective is to design and build a website for a partner. There are two big goals in this project:
+
+1) Learn what it's like to design a website for someone else.
+2) Gain a new perspective on your own website by seeing how someone else would design it.
+
+In unit 5, your partner described the website they want you to build, and you used their description to mock-ups two pages. In unit 6, you’re going to continue working on your partner’s website, using HTML and CSS to turn the two mock-ups you designed into actual web pages.
+
+In steps 1 and 2 of this project, you’ll build the two pages of their site. In step 3, you’ll send your partner a first draft of the website that you’ve created for them. In step 4, you’ll make revisions based on their feedback, and in step 5, you’ll submit the finished site.
+
+We’ve created a outline below to help you manage this week’s project and it’ll also help you move through the steps in this project too. You’ll see the outline below throughout the steps in this prompt, and a similar outline in the Unit 6 project as well.
+
+Steps 1 + 2: Completed within 3 days of beginning the assignment
+
+Steps 3: Completed within 5 days of beginning the assignment
+
+Steps 4 + 5: Completed within 7 days of beginning the assignment
+Step 1: Build Your Client's Website
+
+First, using HTML and CSS, you’ll turn the two mock-ups you designed into actual web pages.
+
+*TIP: If you need to fill an area on the page with text, but you don’t know what to write, try filling that space with “Lorem Ipsum.” Lorem ipsum is a fake language that looks sort of like latin. Developers and designers frequently use it when creating mockups plan what text will look on the page without having to worry about what's actually written. You can learn more and get some for your site here: http://www.lipsum.com/.*
+
+Feel free to use and experiment with any of the following elements:
+
+body
+nav
+header
+footer
+aside
+h1
+h2
+div
+span
+p
+ul
+ol
+li
+img
+a
+
+Once you’ve finished creating your two pages, you’ll want to use a tags to link them together. Check out this handy guide to see how!
+Step 2: Set Up Your Stylesheet
+
+Once you’ve finished creating your content and linking your pages together, it’s time to start styling your pages with CSS. Remember to add a link to your stylesheet into the head section of each of your HTML pages.
+
+Keep in mind that, even though you have two HTML pages, you only need one stylesheet. Because both HTML pages will share the same stylesheet, styles will be consistent across both pages. If you want to make a style only apply to content on one page or to one section of one page, etc., use selectors such as:
+
+ids (#)
+classes (.)
+
+Try using the box model and columns to help organize the layout of your pages. Play with declarations like:
+
+margin
+border
+padding
+float: left
+float: right
+clear: both
+.clearfix
+
+Experiment with declarations to style images and content areas, such as:
+
+background
+display
+width
+height
+
+To bring typography to life, try using:
+
+font-family
+font-size
+text-align
+color
+line-height
+letter-spacing
+
+Steps 1 + 2: Completed within 3 days of beginning the assignment
+Step 3: Solicit Feedback
+
+Test both pages to make sure your content and styles all look correct, then commit and sync your work to Github. Email your partner the link and ask them to address the following:
+
+    How well did I execute the layout in the mock-ups? Are there any changes I could make that might improve the layout of the site?
+    Can you help point out inconsistencies between the mock-ups and the pages?
+    Is there anything that worked in the mock-ups that didn’t translate to code as well as expected?
+    Does the color palette, typeface choice, and overall look and feel of the design represent your restaurant/business?
+    Any additional questions or comments.
+
+Your partner will reply to your email with their responses to these questions.
+
+*TIP: When giving feedback to your partner, keep in mind that you’ll get a chance to build your own website in upcoming lessons. Your goal here isn’t to force them to build exactly what you would build. Give them some freedom to do things a bit differently. Their choices may inspire you when you return to your own page.*
+
+Steps 3: Completed within 5 days of beginning the assignment
+Step 4: Revisions
+
+Once your partner has responded to your email with the above feedback, read through their notes and see if you can use their thoughts to further improve the webpages you’ve built.
+Step 5: Submit
+
+After finishing the revision, upload it to your Github Pages account. After submitting your project, don’t forget to email a link to your partner, so they can see your finished work!
+
+Steps 4+5: Completed within 7 days of beginning the assignment

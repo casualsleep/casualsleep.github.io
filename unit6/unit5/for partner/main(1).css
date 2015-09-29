@@ -1,0 +1,50 @@
+
+
+body {
+	background-image: url("http://i.imgur.com/B8SmIfz.jpg");
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	background-size: cover;
+	font-weight: normal;
+	color: #FF0066;
+	font-family: 'Roboto', sans-serif;
+}
+#logo{
+	box-shadow: 0px 20px 100px #ffe400;
+	border-style: groove;
+	border-color: #ffe400;
+}
+
+#title {
+	color: #ff0000;
+	text-shadow: 2px 2px 6px #000;
+	text-align: justify;
+	text-decoration: underline;
+	font-size: 50px;
+	font-weight: 900;
+}
+h2 {
+	color: #00ffff;
+	text-shadow: black 0.1em 0.1em 0.2em;
+	text-align: bottom;
+}
+
+
+#slogan {
+	font-style: italic;
+	text-align: justify;
+}
+
+div {
+	text-align:justify;
+    height: auto;
+    display: inline-block;
+    margin: 0 10px;
+}
+footer{
+	color: white;
+	padding: 25px, 50px;
+	background-color: rgba(0, 0,255, .3);
+	height: 100px;
+}
+

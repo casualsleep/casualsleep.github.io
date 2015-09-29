@@ -1,0 +1,1 @@
+the albums will be unordered lists [ul] and inline [display: inline] with an image source as per each album cover.

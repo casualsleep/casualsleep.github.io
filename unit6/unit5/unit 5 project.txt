@@ -1,0 +1,83 @@
+
+Client and Designer Part 1: Mock-ups
+
+In units 1-4, you've been working on your own website. However, for the unit 5 and 6 projects, we're going to mix things up a bit! You're going to pair with a classmate, tell them about your site, and give them a stab at designing and building your site. You'll do the same for them.
+
+Don't worry, you'll all get to return to working on your own sites once you've completed units 5 and 6!
+
+There are two big goals in this project:
+
+1) Learn what it's like to design a website for someone else.
+
+2) Gain a new perspective on your own website by seeing how someone else would design it.
+
+For unit 5, you'll gain experience as both a client and a designer by designing and giving feedback on mock-ups, respectively. To make sure you understand each role, it may be helpful to read through the instructions for the entire project before you begin. In unit 6, you'll continue this project by building a web page from the mock-ups you created in unit 5.
+
+Your Online Course Producer (OCP) will match you with a classmate. If you haven't received a partner for this activity yet, make sure to email your OCP and let them know. In the meantime, you can begin steps one and two.
+
+We’ve created a outline below to help you manage this week’s project and it’ll also help you move through the steps in this project too. You’ll see the outline below throughout the steps in this prompt, and a similar outline in the Unit 6 project as well.
+
+Steps 1 + 2: Completed by midnight within 2 days of beginning the assignment
+
+Steps 3 + 4: Completed by midnight within 5 days of beginning the assignment
+
+Steps 5 + 6: Completed by midnight within 7 days of beginning the assignment
+Step 1: Define Your Audience/Tone
+
+In steps 1 and 2 of this project, you'll be playing the role of the client. Once you've completed these two steps, you'll email the documents you create to your partner.
+
+Pretend you've decided to outsource the design and construction of the website you’ve been working on in the first four units. Your partner will be playing the role of the designer to whom you’ve outsourced this work. In order for your partner to understand your goals, create a document telling them a little more about your site.
+
+Use these questions to outline your thoughts:
+
+    Who will visit your site?
+    Who are your competitors in similar industries?
+    What can make you and/or your product stand out against your competitors?
+    How would you speak to your clientele if you were communicating in person? How could you translate that style and tone digitally?
+    What colors represent your restaurant/business?
+    What images illustrate your message?
+
+If you'd like to see a sample, follow this document as a guide.
+Step 2: Identify Content
+
+In this step, you'll provide your designer with additional context by describing the hierarchy and flow of your site. Use the following questions as a guide and add your answers to the document from step 1:
+
+    Imagine your site has two pages, a home page and one other page of your choice (about, contact, gallery, etc.). Would the design remain constant across both pages? How so? How would the design differ?
+    Make sure to clearly describe the name, look, and purpose of each page.
+    What should each page contain? Will there be text content? Or just images?
+
+Again, if you'd like to see a sample, continue using the document from step one as a guide.
+
+When you're done, email your completed document with your detailed outline to your partner. In the ensuing steps, you will play the role of designer and use the document your partner created in steps 1 and 2 to help them design their website. Steps 1 + 2: Completed by midnight within 2 days of beginning the assignment
+Step 3: Create Mock-ups
+
+Okay. Time to remove your client hat and put on your designer hat. Ready?
+
+Review the document your partner has emailed you. Using lines and basic shapes, create mock-ups for their website. Remember to incorporate boxes for the nav, header, footer, and body.
+
+Think about the meaning and utility of each page, and decide which design patterns will remain consistent across the site and which design patterns will change depending on page-specific content.
+
+As you're creating mock-ups, make sure to keep the design principles we've learned in mind, such as focal point, hierarchy, balance, and grid-based layouts.
+Step 4: Submission and Feedback
+
+Email your partner the mock-ups you created for them. In the email, make sure to ask what they would like changed as well as the following questions:
+
+    Will the mock-up appeal to the site's visitors?
+    Are your products or services elevated in you website's hierarchy?
+    Would the page stand out against your competitor's pages?
+    Does the style represent your restaurant's / business's brand?
+
+Steps 3 + 4: Completed by midnight within 5 days of beginning the assignment
+Step 5: Update Mock-ups
+
+Once you've received your partner's general feedback and the answers to the questions listed above, make revisions to your original design of the mock-ups.
+Step 6: Submission
+
+Email your partner your revised version of the mock-ups for their site. Then, similar to the unit 2 project submission, create a folder in your local repository for this unit (title it "unit5"), add your mock-up files to the folder, sync your folder to Github, and share the URL when you submit your project.
+
+Steps 5 + 6: Completed by midnight within 5 days of beginning the assignment
+?
+?
+Projects
+Submit my project
+

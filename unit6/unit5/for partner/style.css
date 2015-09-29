@@ -1,0 +1,60 @@
+body {
+	background-color: #BAE3BD;
+}
+header {
+	background: url("http://i.imgur.com/ZIqAjXX.jpg" alt="Our Logo");
+	text-align: center;
+}
+h3 {
+		text-align: center;
+		color:#912828;
+		font-family: "Courier New",monospace;
+		font-size: 25px;
+}
+#slogan {
+	font-family: 'Orbitron', sans-serif;
+	font-style: italic;
+	text-align: center;
+	letter-spacing: 3px;
+}
+
+#interface {
+	position: relative; 
+    width: 100%; /* for IE 6 */
+	text-align: center;
+	font-family: "Gothic New",monospace;
+	font-size: 48px;
+	color: red;
+}
+
+h2 { 
+   position: absolute; 
+   top: 200px; 
+   left: 0; 
+   width: 100%; 
+}
+
+nav {
+text-align: center;
+font: 
+font-weight: 50px;
+}
+ul{
+	font-family: 'Quicksand', sans-serif;
+	font-weight: bold;
+	color: #0000ff;
+	line-height: 150%;
+}
+p{
+	font-family: Arial, sans-serif;
+	color: rgb(255,0,0);
+	letter-spacing: 1px;
+	font-weight: bold;
+	color: black;
+	margin: 25px 25px;
+	display: block;
+}
+
+
+
+
