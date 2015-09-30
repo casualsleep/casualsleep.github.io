@@ -6,11 +6,14 @@ body {
 	font-weight: normal;
 	color: #FF0066;
 	font-family: 'Roboto', sans-serif;
-
+	font-size:16px;
 }
 
 header {
 	background-repeat:no-repeat;
+}
+header img {
+	width:8em;
 }
 nav {
 	float:left;
@@ -35,7 +38,6 @@ figure {
 }
 figure img {
 	width:100%;
-	height:100%;
 }
 #slogan {
 	font-style: italic;
@@ -44,6 +46,12 @@ figure img {
 #title {
 	color: #38E600;
 	text-align: justify;
-	font-size: 38px;
+	font-size: 2.5em;
 }
-
+.clearfix:after { 
+	content: "."; 
+	visibility: hidden; 
+	display: block; 
+	height: 0; 
+	clear: both;
+}
