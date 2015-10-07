@@ -1,0 +1,49 @@
+* { margin:0; padding:0; box-sizing:border-box; }
+
+body {
+	background-image: url("http://i.imgur.com/GuF0EFI.jpg");
+	background-size: cover;
+	font-weight: normal;
+	color: #FF0066;
+	font-family: 'Roboto', sans-serif;
+
+}
+
+header {
+	background-repeat:no-repeat;
+}
+nav {
+	float:left;
+	width:20%;
+
+}
+nav a {
+	display:block;
+	margin:1em;
+	text-align:center;
+	text-decoration: none;
+	color: #00ABE6;
+}
+section {
+	float:left;
+	width:80%;
+}
+figure {
+	float:left;
+	padding:.5em;
+	width:20%;
+}
+figure img {
+	width:100%;
+	height:100%;
+}
+#slogan {
+	font-style: italic;
+	text-align: justify;
+}
+#title {
+	color: #38E600;
+	text-align: justify;
+	font-size: 38px;
+}
+
