@@ -1,0 +1,91 @@
+* { margin:0; padding:0; box-sizing:border-box; }
+
+body {
+	background-image: url(http://i.imgur.com/GuF0EFI.jpg);
+	font-weight: normal;
+	color: #FF0066;
+	font-family: 'Muli', sans-serif;
+
+}
+
+header {
+	background-repeat:no-repeat;
+}
+nav {
+	float:left;
+	width:20%;
+	font-weight: bold;
+
+}
+nav a {
+	display:block;
+	margin:1em;
+	text-align:center;
+	text-decoration: none;
+	color: #00ABE6;
+}
+section {
+	float:left;
+	width:80%;
+}
+figure {
+	float:left;
+	padding:.5em;
+	width:20%;
+	font-weight: bold;
+}
+figure img {
+	width:100%;
+	height:100%;
+}
+#slogan {
+	font-style: italic;
+	text-align: justify;
+}
+#title {
+	color: red;
+	text-align: justify;
+	font-size: 2.7em;
+}
+.albums {
+	width: 100%;
+	height: auto;
+	font-size: 10%;
+}
+
+@media only screen and (max-width: 320px) {
+{
+	float: none;
+	width: auto;
+}
+ nav a {
+ 	display: block;
+ 	text-align: center;
+ 	margin: 0;
+ 	font-size: 0.7em;
+ 	font-weight: bold;
+ }
+ figure {
+ font-size: 0.7em;
+ margin: 3em 1em 1em;
+ }
+}
+
+@media only screen and (max-width: 768px) {
+{
+	float: none;
+	width: auto;
+}
+ nav a {
+ 	display: block;
+ 	text-align: center;
+ 	margin: 0;
+ 	font-size: 0.7em;
+ }
+ figure {
+ font-size: 0.7em;
+ margin: 3em 1em 1em;
+ }
+    
+}
+
